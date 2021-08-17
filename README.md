@@ -1,6 +1,8 @@
 Getting started with SingleStore and Node.js
 ============================================
 
+Note: This repo has been archived. You can find up to date SingleStore and Node.js guide here: https://github.com/singlestore-labs/singlestore-node-quickstart
+
 
 Whether you're using an ORM or straight SQL, you can get started with SingleStore (formerly MemSQL) fast. Here's an introductory sample of using SingleStore with Node and JavaScript. This sample includes all the CRUD methods: Create, Read by id, Read all, Update, and Delete.
 
